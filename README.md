@@ -1,5 +1,5 @@
 # React Three Fiber Multi-View
-This is a simple example of how to create a multiple views of the same scene using React Three Fiber.
+This is a simple example of how to create multiple views of the same scene using React Three Fiber.
 
 ## How to run
 1. Clone the repository
